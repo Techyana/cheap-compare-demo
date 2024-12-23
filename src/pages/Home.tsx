@@ -1,6 +1,6 @@
 import React from 'react';
-import InsuranceCard from '../components/InsuranceCard';
-import DealCard from '../components/DealCard';
+import InsuranceCard from '../components/InsuranceCard/InsuranceCard';
+import DealCard from '../components/DealCard/DealCard';
 
 const Home: React.FC = () => {
   return (
