@@ -1,5 +1,5 @@
 import React from 'react';
-import DealCard from '../components/DealCard/DealCard';
+import DealCard from '../../components/DealCard/DealCard';
 
 const CellphoneDeals: React.FC = () => {
   const deals = [

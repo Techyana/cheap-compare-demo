@@ -1,0 +1,15 @@
+.footer {
+    background-color: #1a202c; /* Tailwind's gray-800 */
+    color: #ffffff; /* Tailwind's white */
+    padding: 1rem 0; /* Tailwind's py-4 */
+  }
+  
+  .footer a {
+    color: #a0aec0; /* Tailwind's gray-400 */
+    margin: 0 0.5rem; /* Tailwind's mx-2 */
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .footer a:hover {
+    color: #ffffff; /* Tailwind's white */
+  }
